@@ -1,0 +1,10 @@
+
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á˜ıùÿÿÿÿ8ë¬èòã1J$0aeb810c-ade5-4f80-8d15-8eb247817158
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü¢”ä8ì¬èòã1J$4d404845-0fb9-4a3d-b44d-28a2af4d3686
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á˜ï»üÿÿÿÿ8ì¬èòã1J$ea64ed13-c9aa-469b-aea7-8c8f907e9864
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û™Ü•şÿÿÿÿ8ì¬èòã1J$ac371b96-41cb-4819-b22b-286be0aebb3e
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ì¥ÿÿÿÿÿ8ì¬èòã1J$d5d6a078-b80e-42ac-aca9-c63eda77b1cc
+”
+java:S1845"QRename field "getAll" to prevent any misunderstanding/clash with method "getAll".(ü¢”ä8î¬èòã1J$08b10fc6-61c5-4d36-a040-1bb6c766bfef
+Û
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(üæÑ{8÷¬èòã1J$ed2817d5-daa0-4586-b9c3-cdb08af0b1a2

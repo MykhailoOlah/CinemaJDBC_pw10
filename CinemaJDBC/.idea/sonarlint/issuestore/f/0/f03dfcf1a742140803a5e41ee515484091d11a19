@@ -1,0 +1,55 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¨…Æåùÿÿÿÿ8î£óã1J$7fa96faf-1823-412e-b75a-fb2bc6dade82
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Í æ”ùÿÿÿÿ8î£óã1J$3e9ea7fd-90d1-4704-873d-2a466ef7433c
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(ÅˆíÛüÿÿÿÿ8î£óã1J$b42ba4ae-6e69-4d03-9700-936ce800f7e3
+ƒ	java:S1252"<This block of commented-out lines of code should be removed.(±ğÏúÿÿÿÿ8î£óã1J$4132bed4-315c-475b-aafa-b9d1bb525d4b
+r	java:S106A"+Replace this use of System.out by a logger.(é‚½»øÿÿÿÿ8–î£óã1J$48beada7-cf89-4720-a4e2-9a7be2abcf74
+r	java:S106G"+Replace this use of System.out by a logger.(ÏÄ¥‚úÿÿÿÿ8šî£óã1J$9d08cede-8f50-46f1-92c1-ceff34eb231c
+r	java:S106T"+Replace this use of System.out by a logger.(•›’ üÿÿÿÿ8 î£óã1J$2f5b5c90-0342-4954-9dcc-c4618cc3a336
+m	java:S106X"+Replace this use of System.out by a logger.(çò•á8£î£óã1J$5e49dcb8-883b-45b6-97a9-78872f0664bf
+m	java:S106c"+Replace this use of System.out by a logger.(ÔòÍô8¨î£óã1J$60cbb14f-fd5a-4d52-8aee-bf319b9f9c83
+r	java:S106i"+Replace this use of System.out by a logger.(ıĞÃÿÿÿÿÿ8«î£óã1J$4468c2ac-f473-470a-b401-49cdda19f613
+r	java:S106s"+Replace this use of System.out by a logger.(ï†êùÿÿÿÿ8¯î£óã1J$5caef191-804c-4111-a6e1-04d9fa266aaa
+r	java:S106w"+Replace this use of System.out by a logger.(×ûÊêøÿÿÿÿ8±î£óã1J$4836b79b-bef9-4081-9320-152f25d08b39
+m	java:S106z"+Replace this use of System.out by a logger.(©‹‚“8²î£óã1J$61e08269-9d73-436f-a159-b6415b3dfc87
+m	java:S106"+Replace this use of System.out by a logger.(çª°Ò8´î£óã1J$a417e584-17e3-4333-942f-f43aa417cf96
+s	java:S106‰"+Replace this use of System.out by a logger.(ıÈ”¢şÿÿÿÿ8¸î£óã1J$fa0f8265-3269-423d-a306-13acd6464b77
+n	java:S106“"+Replace this use of System.out by a logger.(À¦‚À8½î£óã1J$a93acb7c-0c41-4767-b42d-12f2fba5fac0
+n	java:S106–"+Replace this use of System.out by a logger.(ÂÙıÍ8Àî£óã1J$23b51384-7c0a-4a60-b7d3-331a6e76f9c7
+s	java:S106›"+Replace this use of System.out by a logger.(«œı¨ÿÿÿÿÿ8Ãî£óã1J$0bc0c328-87a3-4ee2-b3aa-a7d030283441
+n	java:S106¤"+Replace this use of System.out by a logger.(äüßí8Çî£óã1J$f45dec98-6910-4888-9fe2-79d56d0f19cb
+n	java:S106®"+Replace this use of System.out by a logger.(¶ª 8Éî£óã1J$af29b0c2-68a0-4748-b046-055b21045004
+t
+java:S1144:"1Remove this unused private "createTicket" method.(´±€İ8Êî£óã1J$9b2a36ca-7c99-4e20-8a7e-fdc5c8fb48fb
+r
+java:S1144D"/Remove this unused private "allTickets" method.(ê¬ã8Ëî£óã1J$1a661690-9fa9-4382-93c5-a0a202db6979
+u
+java:S1144K"2Remove this unused private "getTicketById" method.(»¿ğª8Ëî£óã1J$0e59fef3-54d0-4e0c-ab3d-87ade995f4d6
+y
+java:S1144O"1Remove this unused private "updateTicket" method.(ø¥±ùÿÿÿÿ8Ëî£óã1J$84d78728-e0bc-4115-83b4-d23801d4775f
+y
+java:S1144W"1Remove this unused private "deleteTicket" method.(¼½Áõÿÿÿÿÿ8Ëî£óã1J$4aee2ad8-2ba4-4749-8e56-004a2c3f39c1
+r
+java:S1144Z"/Remove this unused private "createFilm" method.(›¥¨å8Ëî£óã1J$510020da-5f52-4628-ad9f-ea45cf9ae60b
+u
+java:S1144f"-Remove this unused private "allFilms" method.(™İÔúÿÿÿÿ8Ëî£óã1J$7208dba9-8233-4207-8b56-d242e8b11e0f
+r
+java:S1144q"/Remove this unused private "updateFilm" method.(ÎÕò¯8Ëî£óã1J$00f30bf7-9eaf-4110-8225-80b1b051081c
+r
+java:S1144v"/Remove this unused private "deleteFilm" method.(¬»ªØ8Ëî£óã1J$baf257ce-836c-40de-8829-53be660007c0
+y
+java:S1144y"1Remove this unused private "deleteCinema" method.(Ø¹×Ôıÿÿÿÿ8Ìî£óã1J$0f090dad-e8ba-474f-8f24-547182d1577b
+y
+java:S1144}"1Remove this unused private "updateCinema" method.(¥Ê¹¿ûÿÿÿÿ8Ìî£óã1J$794e43ca-25d3-4bea-a002-0f21ccec1bf4
+x
+java:S1144†"/Remove this unused private "allCinemas" method.(à™«ùÿÿÿÿÿ8Ìî£óã1J$68641783-bde0-4851-99c1-41a7362b90ba
+z
+java:S1144"1Remove this unused private "createCinema" method.(ÄÍ˜¨ıÿÿÿÿ8Ìî£óã1J$72ff701c-0790-4616-a015-7480f91b008d
+z
+java:S1144•"1Remove this unused private "deleteClient" method.(é»µœøÿÿÿÿ8Ìî£óã1J$7aea292b-33bd-4e36-89f6-e9647403ff14
+t
+java:S1144™"1Remove this unused private "updateClient" method.(™ùÌn8Ìî£óã1J$e5e78625-38bd-4f74-9b02-da1929ef118c
+M
+java:S1144¡"/Remove this unused private "allClients" method.(€ ä8¿œ¨óã1
+z
+java:S1144¨"1Remove this unused private "createClient" method.(ÚÆÒÇıÿÿÿÿ8Ìî£óã1J$760cbb4e-17c1-4f5e-a6be-05e11ccf8b2b

@@ -1,0 +1,14 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ƒšª¾üÿÿÿÿ8¤ç¢Åë1J$19cc6a60-2fa0-4975-9b32-e276b8596bad
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‹‘ùÿÿÿÿ8¾ˆ¥Åë1J$5163a465-26c9-47db-9780-d9912d312eb7
+r	java:S106t"+Replace this use of System.out by a logger.(¼øìåıÿÿÿÿ8»ç¢Åë1J$f1a81448-3079-4247-ae69-c3060e277d0e
+m	java:S106v"+Replace this use of System.out by a logger.(©„Ò8¼ç¢Åë1J$056e12f9-94aa-49af-a4a8-2973f166499f
+m	java:S106y"+Replace this use of System.out by a logger.(õÏíØ8½ç¢Åë1J$06ccc7d2-8b5b-408d-b50e-411ca34b71f8
+
+java:S1144"7Remove this unused private "TicketValidateTest" method.(ø‹‘ùÿÿÿÿ8ßˆ¥Åë1J$3136dfb3-c5f3-430f-b0a9-ceec5f6d9f25
+}
+java:S11440"5Remove this unused private "filmValidateTest" method.(®ºœŠùÿÿÿÿ8¿º£Åë1J$edb987cb-dcf0-4804-b2e2-3ad7343e21f2
+z
+java:S1144J"7Remove this unused private "clientValidateTest" method.(Ğˆ…«8¿ç¢Åë1J$c1acd789-745c-4834-b96d-9f72a6e9a067
+z
+java:S1144^"7Remove this unused private "cinemaValidateTest" method.(²¨§€8¿ç¢Åë1J$6e1f88c3-69c8-4827-b62f-9956f64dbdd1

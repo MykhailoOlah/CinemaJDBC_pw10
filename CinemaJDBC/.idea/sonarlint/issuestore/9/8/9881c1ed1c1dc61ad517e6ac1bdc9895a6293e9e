@@ -1,0 +1,8 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ï˜¥ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Õ‘ì‡şÿÿÿÿ
+W
+java:S1144"<Remove this unused private "registrationServiceTest" method.(³ç©şşÿÿÿÿ
+Y
+java:S1144">Remove this unused private "authenticationServiceTest" method.(ÔÃüúÿÿÿÿ
